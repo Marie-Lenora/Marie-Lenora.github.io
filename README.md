@@ -68,7 +68,7 @@ Now that we have successfully hosted the resume, we will add a jekyll theme to i
 	* Add a line to the file "theme: Jekyll-theme-minimal"
 	* Select commit changes.
 	
-	![Adding a config file](https://github.com/Marie-Lenora/Marie-Lenora.github.io/blob/e08e31aaf864a25a55c9aee3722de31b99d7fefa/Online%20hosted%20resume.gif)
+	![Adding a config file](https://github.com/Marie-Lenora/Marie-Lenora.github.io/blob/d27a3ae5683e76fc0439c6dab358bf81eea6d041/Create%20config%20file.gif)
 	
 	Your resume is now hosted with a jekyll theme. If you wish to use a different theme, you can view the lists of github supported jekyll themes [here](https://pages.github.com/themes/). Click on the theme of choice and you will be directed on how to add this theme to your github page. 
 			
