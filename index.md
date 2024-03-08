@@ -1,7 +1,7 @@
 ## ESEOSA ATAGA 
 (431) 866-1949 | lysataga@yahoo.com | Winnipeg, Manitoba
 
-# __________________________________ 
+# _________________________________________________________________________________________________
 ### SKILLS 
 * Organisation and Multitasking
 * Critical Thinking and problem solving
