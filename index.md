@@ -1,8 +1,8 @@
-## ESEOSA ATAGA ##
-(431) 866-1949 &emsp; lysataga@yahoo.com &emsp; Winnipeg, Manitoba
+## ESEOSA ATAGA 
+(431) 866-1949 | lysataga@yahoo.com | Winnipeg, Manitoba
 
-# __________________________________ #
-### SKILLS ###
+# __________________________________ 
+### SKILLS 
 * Organisation and Multitasking
 * Critical Thinking and problem solving
 * Software Engineering
@@ -19,7 +19,7 @@
 * Python Machine Learning tools: numPy, scikit-learn, matplotlib
 * Agile Process Management
 
-### SCHOOL EXPERIENCE ###
+### SCHOOL EXPERIENCE 
 * Participated in a group project where we built  a website prototype of a book catalogue/recommendation system as a
 * Parrticipated in a group project where we built a car sales app for Software Engineering class
 * Participated in .devclub Hackathon 2024 to build a website to help women in computer Science.
@@ -47,7 +47,7 @@
 * Contributed to the development of the community's constitution.
 * Implemented the first ever Black Peer mentorship program at the University of Manitoba.
 
-### AWARDS AND CERTIFICATIONS ###
+### AWARDS AND CERTIFICATIONS 
 * [Microsoft Office Specialist: Word 2013, Excel 2013, PowerPoint 2013](https://www.credly.com/users/eseosa-ataga)
 * [Coursera Excel for Business](https://coursera.org/share/961e8ba9c35a6e6165628bc1c145ceab)
 * [Workplace Hazardous Materials Information System(WHMIS)](https://api.ca.badgr.io/public/assertions/z5q8Bdc_T32Zpb5PR8ftYw?identity__email=lysataga%40yahoo.com)
